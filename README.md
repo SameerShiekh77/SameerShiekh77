@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerShiekh77&theme=github_dark&show_icons=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SameerShiekh77)](https://github.com/ryo-ma/github-profile-trophy)
