@@ -1,7 +1,7 @@
-## Hi there I'm Muhammad Sameer
+## Hi there I'm <a href="https://sam-myportfolio.web.app" target="_blank"> Muhammad Sameer </a>
 
 <hr>
-I'm Muhammad Sameer. I'm doing BSCS from FUUAST. It's my third year at University. I was working on Python for 1.5 years and I'm recently completed my Artificial Intelligence course. also, I'm a full-stack web developer and Data Analyst. I have completed my 3 internships. I'm certified in Python from CISCO, ITronix Solution, and the University of Michigan. 
+I'm Muhammad Sameer. I'm doing BSCS from FUUAST. It's my third year at University. I was working on Python for 1.5 years and I'm recently completed my Artificial Intelligence course. also, I'm a full-stack web developer and Data Analyst, and have experience with multiple langauges. I have completed my 3 internships. I'm certified in Python from Udemy, Coursera CISCO, ITronix Solution, and the University of Michigan. 
 
 
 <hr>
@@ -16,9 +16,9 @@ I am a talented, ambitious, and hardworking individual, with broad skills and ex
 
 
 - 🌱 I’m currently learning **AI,DS,AWS Sagemaker,Github Copilot waiting for NVIDIA Megatron**
-- 📝 I write articles on [https://techshoor.com/](https://techshoor.com/)      💬 Ask me about **Python, AI ,DL**
+- 📝 I write articles on [https://techshoor.com/](https://techshoor.com/)      💬 Ask me about **Python, Django, AI**
 
-
+ <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 <h3 align="left">Languages and Tools:</h3>    
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img
@@ -52,13 +52,15 @@ I am a talented, ambitious, and hardworking individual, with broad skills and ex
 
 <hr>
 
-# Experience
-- 6 Month Experience at "APTECH NORTH KARACHI"
-- 6 Month Experience at "CODERZ HOUSE"
-- 2 Month Experience at "ML SENSE"
-- Co-Founder of TECHSHOOR from 2021 to Present 
-- Founder of "SAM TECH" from 2020 to Present
-- Senior Teacher at "KARACHI CAMBRIDGE SCHOOL" from 2017 to 2022
+  
+
+## Experience
+- 6 Month Experience as a <b>Junior Faculty</b> at <q>APTECH NORTH KARACHI</q>
+- 6 Month Experience as a <b>Full Stack Django Developer</b> at <q>CODERZ HOUSE</q>
+- 2 Month Experience as a <b>Data Analyst</b> at <q>ML SENSE</q>
+- <b>Co-Founder of TECHSHOOR</b> from 2021 to Present 
+- <b>Founder of <q>SAM TECH</q></b> from 2020 to Present
+- Senior Teacher at <q>KARACHI CAMBRIDGE SCHOOL</q> from 2017 to 2022
 
 <hr>
 
@@ -69,18 +71,15 @@ I am a talented, ambitious, and hardworking individual, with broad skills and ex
 
 
 ## Check My Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerShiekh77&theme=github_dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerShiekh77&theme=github_dark&show_icons=true&count_private=true)
 
 
 ## Mostly Used top languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerShiekh77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerShiekh77&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 
 
 
