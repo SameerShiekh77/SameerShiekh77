@@ -71,8 +71,7 @@ I am a talented, ambitious, and hardworking individual, with broad skills and ex
 
 
 ## Check My Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameershiekh77&theme=github_dark&show_icons=true&count_private=true)
-
+[![SameerShiekh77 GitHub stats](https://github-readme-stats.vercel.app/api?username=sameershiekh77&theme=github_dark&show_icons=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Mostly Used top languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameershiekh77&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
