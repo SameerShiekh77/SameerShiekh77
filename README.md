@@ -71,15 +71,10 @@ I am a talented, ambitious, and hardworking individual, with broad skills and ex
 
 
 ## Check My Github Stats:
-[![SameerShiekh77 GitHub stats](https://github-readme-stats.vercel.app/api?username=sameershiekh77&theme=github_dark&show_icons=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![SameerShiekh77 GitHub stats](https://github-readme-stats.vercel.app/api?username=sameershiekh77&theme=github_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Mostly Used top languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameershiekh77&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=SameerShiekh77&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 <h3 align="left">Connect with me:</h3>
