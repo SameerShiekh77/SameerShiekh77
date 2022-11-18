@@ -19,6 +19,8 @@ I am a talented, ambitious, and hardworking individual, with broad skills and ex
 - 📝 I write articles on [https://techshoor.com/](https://techshoor.com/)      💬 Ask me about **Python, Django, AI**
 
  <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+ 
+ <hr>
 <h3 align="left">Languages and Tools:</h3>    
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img
@@ -71,7 +73,7 @@ I am a talented, ambitious, and hardworking individual, with broad skills and ex
 
 
 ## Check My Github Stats:
-[![SameerShiekh77 GitHub stats](https://github-readme-stats.vercel.app/api?username=sameershiekh77&theme=github_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameershiekh77&show_icons=true&theme=radical&count_private=true)
 
 ## Mostly Used top languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameershiekh77&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
