@@ -17,6 +17,7 @@ I am a talented, ambitious, and hardworking individual, with broad skills and ex
 
 - 🌱 I’m currently learning **AI,DS,AWS Sagemaker,Github Copilot waiting for NVIDIA Megatron**
 - 📝 I write articles on [https://techshoor.com/](https://techshoor.com/)      💬 Ask me about **Python, Django, AI**
+- 📝 I write articles on [https://medium.com/](https://medium.com/@muhammadsameer.css)      💬 Ask me about **Python, Django, AI**
 
  <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
  
