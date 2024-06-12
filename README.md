@@ -80,7 +80,7 @@ I am a talented, ambitious, and hardworking individual, with broad skills and ex
   
 
 ## Experience
-- Currently Working as a <b>Backend Manager</b> at <q>Al Nafi</q> since 1 Year
+- Currently Working as a <b>DevOps Manager</b> at <q>Al Nafi</q> since 1.8 Year
 - 6 Month Experience as a <b>Junior Faculty</b> at <q>APTECH NORTH KARACHI</q>
 - 6 Month Experience as a <b>Full Stack Django Developer</b> at <q>CODERZ HOUSE</q>
 - 2 Month Experience as a <b>Data Analyst</b> at <q>ML SENSE</q>
