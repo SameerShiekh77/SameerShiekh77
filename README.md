@@ -69,6 +69,7 @@ I am a talented, ambitious, and hardworking individual, with broad skills and ex
       src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"
       height="40" /> </a> 
   </a> 
+  <a href="https://php.net" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXalRyF7J7QRLkJfMwCMqA47UUDCFdHJ-dFQ&s" alt="PHP" width="50" height="50">
     
 </p>
 
