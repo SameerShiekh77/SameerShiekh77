@@ -39,29 +39,27 @@ I graduated from FUUAST, where I am a full-stack developer and DevOps manager wi
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerShiekh77&" alt="SameerShiekh77" />
 </p>
 
-
-
 ## 🌟 Experience
 
-- **🚀 DevOps Manager** at *Al Nafi* (Aug-2022 -Present)   
+- **🚀 DevOps Manager** at _Al Nafi_ (Aug-2022 -Present)  
   Leading and managing DevOps practices to streamline operations and drive innovation.
 
-- **👨‍🏫 Junior Faculty** at *APTECH NORTH KARACHI* (6 Months)  
+- **👨‍🏫 Junior Faculty** at _APTECH NORTH KARACHI_ (6 Months)  
   Empowering students with foundational knowledge and hands-on experience in technology.
 
-- **💻 Full Stack Django Developer** at *CODERZ HOUSE* (6 Months)  
+- **💻 Full Stack Django Developer** at _CODERZ HOUSE_ (6 Months)  
   Crafting robust web applications using Django, contributing to both frontend and backend development.
 
-- **📊 Data Analyst** at *ML SENSE* (2 Months)  
+- **📊 Data Analyst** at _ML SENSE_ (2 Months)  
   Analyzing data trends to deliver actionable insights, enhancing decision-making processes.
 
-- **🎓 Co-Founder** of *TECHSHOOR* (2021 - Present)  
+- **🎓 Co-Founder** of _TECHSHOOR_ (2021 - Present)  
   Building a platform to share knowledge, fostering a community of tech enthusiasts.
 
-- **🏆 Founder** of *SAM TECH* (2020 - 2021)  
+- **🏆 Founder** of _SAM TECH_ (2020 - 2021)  
   Leading innovative projects, driving the vision and growth of the company.
 
-- **📚 Senior Teacher** at *KARACHI CAMBRIDGE SCHOOL* (2017 - 2022)  
+- **📚 Senior Teacher** at _KARACHI CAMBRIDGE SCHOOL_ (2017 - 2022)  
   Educating and mentoring students, shaping the next generation of thinkers and leaders.
 
 ## 🌐 Mostly Used Languages
@@ -77,16 +75,25 @@ I graduated from FUUAST, where I am a full-stack developer and DevOps manager wi
 
 ## Projects
 
-- **[Al Nafi E-Learning Platform](https://alnafi.com)**
+<div style="display: flex; flex-wrap: wrap;">
 
+ <div style="flex: 1; padding-right: 20px;">
+<ul>
+
+- **[Al Nafi E-Learning Platform](https://alnafi.com)**
 - **[Al Nafi Cloud](https://alnafi.cloud)**
 
 - **[Al Nafi Academy](https://alnafi.academy)**
 
-
 - **[Empire of Blogs](https://empireofblogs.net)**
 - **[Percento Blogs](https://percentoblogs.com)**
 - **[Chat App](https://chat-app-com.web.app/)**
+</ul>
+  </div>
+
+  
+  <div style="flex: 1;">
+<ul>
 
 - **Annaafie Epay Payment Gateway.**
 
@@ -100,19 +107,17 @@ I graduated from FUUAST, where I am a full-stack developer and DevOps manager wi
 - **Customize CRM on Django.**
 - **Strapi for CMS.**
 - **and many more things I've created....**
+  </ul>
+  </div>
 
-
-
+</div>
 
 ## Get in Touch
 
 ## 📝 Articles
 
-
-- 📝 I write articles on [https://techshoor.com/](https://techshoor.com/)      💬 Ask me about **Python, Django, AI**
-- 📝 I write articles on [https://medium.com/](https://medium.com/@muhammadsameer.css)      💬 Ask me about **Python, Django, AI**
-
-
+- 📝 I write articles on [https://techshoor.com/](https://techshoor.com/) 💬 Ask me about **Python, Django, AI**
+- 📝 I write articles on [https://medium.com/](https://medium.com/@muhammadsameer.css) 💬 Ask me about **Python, Django, AI**
 
 ## 📧 Connect with Me
 
