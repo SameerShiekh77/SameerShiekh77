@@ -1,121 +1,132 @@
-## Hi there I'm <a href="https://sam-myportfolio.web.app" target="_blank"> Muhammad Sameer </a>
+# Hi there, I'm Muhammad Sameer 👋
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SameerShiekh77&label=Profile%20views&color=0e75b6&style=flat" alt="sameershiekh77" /> </p>
-<hr>
-<p>
-I'm Muhammad Sameer a versatile Full Stack
-Developer and DevOps Engineer with a passion
-for technology. My journey began with a curiosity
-for software, and I've since excelled in both
-front-end and back-end development. Proficient
-in languages like Python, and JavaScript, and
-frameworks like Tailwind CSS and Django, I
-create seamless, user-focused applications. As
-a DevOps expert, I automate workflows,
-implement CI/CD pipelines, and manage
-infrastructure using tools like Docker and
-Terraform. With a commitment to continuous
-learning, I embrace emerging technologies to
-drive innovation. I'm your partner in building
-cutting-edge, scalable solutions that bridge the
-the gap between development and operations.
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=SameerShiekh77&label=Profile%20views&color=0e75b6&style=flat" alt="sameershiekh77" />
 </p>
 
-<hr>
+I graduated from FUUAST, where I am a full-stack developer and DevOps manager with expertise in a wide range of technologies. My knowledge spans across HTML, CSS, JavaScript, TypeScript, Python, Django, Docker, Ansible, Bootstrap, Tailwind CSS, and many more. I am also proficient in web development, data scraping, automation, and publishing Python packages on PyPI. Have good working experience in microservice architecture
 
-## About Me
+## 🛠️ Technologies & Tools
 
-<br>
-I am a talented, ambitious, and hardworking individual, with broad skills and experience in digital and printed marketing, social media, and leading projects. Furthermore, I am adept at handling multiple tasks on a daily basis and at working well under pressure. A key strength is communication; building strong relationships with people in order to deliver the best results. Recently, I completed some projects, including Business and Design modules as a task. I am able to handle multiple tasks on a daily basis. I use a creative approach to problem-solving. I am a dependable person who is great at time management. I am always energetic and eager to learn new skills. I have experience working as part of a team and individually.
+<p align="left">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Wordpress-21759b?style=flat&logo=Wordpress&logoColor=white" alt="Wordpress" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Django-092D1F?style=flat&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/Flask-092D1F?style=flat&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/PHP-777BB3?style=flat&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/MySQL-00618A?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="Postgres" />
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
+    <img src="https://img.shields.io/badge/Playwright-0F9D58?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
+    <img src="https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/OpenAI-3C3C3C?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
 
-<hr>
-<h3 align="center">Interested in anything related to AI</h3>
+## 📈 Check My GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerShiekh77&" alt="SameerShiekh77" />
+</p>
 
 
-- 🌱 I’m currently learning **AI, DS, AWS Sagemaker, and Github Copilot waiting for NVIDIA Megatron**
+
+## 🌟 Experience
+
+- **🚀 DevOps Manager** at *Al Nafi* (Aug-2022 -Present)   
+  Leading and managing DevOps practices to streamline operations and drive innovation.
+
+- **👨‍🏫 Junior Faculty** at *APTECH NORTH KARACHI* (6 Months)  
+  Empowering students with foundational knowledge and hands-on experience in technology.
+
+- **💻 Full Stack Django Developer** at *CODERZ HOUSE* (6 Months)  
+  Crafting robust web applications using Django, contributing to both frontend and backend development.
+
+- **📊 Data Analyst** at *ML SENSE* (2 Months)  
+  Analyzing data trends to deliver actionable insights, enhancing decision-making processes.
+
+- **🎓 Co-Founder** of *TECHSHOOR* (2021 - Present)  
+  Building a platform to share knowledge, fostering a community of tech enthusiasts.
+
+- **🏆 Founder** of *SAM TECH* (2020 - 2021)  
+  Leading innovative projects, driving the vision and growth of the company.
+
+- **📚 Senior Teacher** at *KARACHI CAMBRIDGE SCHOOL* (2017 - 2022)  
+  Educating and mentoring students, shaping the next generation of thinkers and leaders.
+
+## 🌐 Mostly Used Languages
+
+<p align="center">
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameershiekh77&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+## Python Packages
+
+- **[sameer-simple-calculator](https://pypi.org/project/sameer-simple-calculator/)**: A Python package for simple mathematical operations, available on PyPI.
+
+## Projects
+
+- **[Al Nafi E-Learning Platform](https://alnafi.com)**
+
+- **[Al Nafi Cloud](https://alnafi.cloud)**
+
+- **[Al Nafi Academy](https://alnafi.academy)**
+
+
+- **[Empire of Blogs](https://empireofblogs.net)**
+- **[Percento Blogs](https://percentoblogs.com)**
+- **[Chat App](https://chat-app-com.web.app/)**
+
+- **Annaafie Epay Payment Gateway.**
+
+- **MCQ Generator Tool.**
+
+- **PDF Summarizer Tool.**
+
+- **Video Analyzer Tool.**
+- **Customize HRM on Django.**
+- **Open Source ERP Next.**
+- **Customize CRM on Django.**
+- **Strapi for CMS.**
+- **and many more things I've created....**
+
+
+
+
+## Get in Touch
+
+## 📝 Articles
+
+
 - 📝 I write articles on [https://techshoor.com/](https://techshoor.com/)      💬 Ask me about **Python, Django, AI**
 - 📝 I write articles on [https://medium.com/](https://medium.com/@muhammadsameer.css)      💬 Ask me about **Python, Django, AI**
 
- <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
- 
- <hr>
-<h3 align="left">Languages and Tools:</h3>    
-<p align="left"> 
-   <a href="https://www.python.org" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python" width="40" height="40" /> </a> 
-   <a href="https://aws.amazon.com" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws" width="40" height="40" /> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
-      width="40" height="40" /> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> <img
-      src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40"
-      height="40" /> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker" width="40" height="40" /> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-   </a> <a href="https://heroku.com" target="_blank"> <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
-      height="40" /> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux" width="40" height="40" /> </a> 
-  <a href="https://opencv.org/" target="_blank"> <img
-      src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"
-      height="40" /> </a> 
-  </a> 
-  <a href="https://php.net" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXalRyF7J7QRLkJfMwCMqA47UUDCFdHJ-dFQ&s" alt="PHP" width="50" height="50">
-    
-</p>
 
 
+## 📧 Connect with Me
 
-
-</p>
-
-<hr>
-
-  
-
-## Experience
-- Currently Working as a <b>DevOps Manager</b> at <q>Al Nafi</q> since 1.8 Year
-- 6 Month Experience as a <b>Junior Faculty</b> at <q>APTECH NORTH KARACHI</q>
-- 6 Month Experience as a <b>Full Stack Django Developer</b> at <q>CODERZ HOUSE</q>
-- 2 Month Experience as a <b>Data Analyst</b> at <q>ML SENSE</q>
-- <b>Co-Founder of TECHSHOOR</b> from 2021 to Present 
-- <b>Founder of <q>SAM TECH</q></b> from 2020 to Present
-- Senior Teacher at <q>KARACHI CAMBRIDGE SCHOOL</q> from 2017 to 2022
-
-<hr>
-
-### Visit My Portfolio: <br>https://muhammadsameer.pythonanywhere.com/ <br>
-
-### Check My Resume: <br>https://cvmuhammadsameer.web.app
-
-
-
-## Check My Github Stats:
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerShiekh77&" alt="SameerShiekh77" />
-
-![SameerShiekh77's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerShiekh77&show_icons=true&theme=radical&count_private=true)
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SameerShiekh77" alt="SameerShiekh77" /></a> </p>
-
-
-## Mostly Used top languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameershiekh77&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammadsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadsameer" height="30" width="40" /></a>
-<a href="https://www.facebook.com/MuhammadSameer47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhamamdsameer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techshoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techshoor" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/muhammadsameer" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadsameer" height="30" width="40" />
+    </a>
+ <a href="[https://ins/in/muhammadsameer](https://www.instagram.com/muhammadsameer15955/)" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadsameer" height="30" width="40" />
+    </a>
+    <a href="https://www.facebook.com/MuhammadSameer47" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhamamdsameer" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/c/techshoor" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techshoor" height="30" width="40" />
+    </a>
 </p>
-
