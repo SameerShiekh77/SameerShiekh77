@@ -72,6 +72,7 @@ I graduated from FUUAST, where I am a full-stack developer and DevOps manager wi
 ## Python Packages
 
 - **[sameer-simple-calculator](https://pypi.org/project/sameer-simple-calculator/)**: A Python package for simple mathematical operations, available on PyPI.
+- **[currency-converter-rate](https://pypi.org/project/currency-converter-rate/)**: A Python package for converting the currency rate to the desired currency.
 
 ## Projects
 
