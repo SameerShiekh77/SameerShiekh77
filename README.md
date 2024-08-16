@@ -107,7 +107,7 @@ I graduated from FUUAST, where I am a full-stack developer and DevOps manager wi
 - **Open Source ERP Next.**
 - **Customize CRM on Django.**
 - **Strapi for CMS.**
-- - **Email Marketing System Tool.**
+- **Email Marketing System Tool.**
 - **and many more things I've created....**
   </ul>
   </div>
