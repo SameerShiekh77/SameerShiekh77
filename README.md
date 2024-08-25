@@ -7,6 +7,8 @@
 I graduated from FUUAST, where I am a full-stack developer and DevOps manager with expertise in a wide range of technologies. My knowledge spans across HTML, CSS, JavaScript, TypeScript, Python, Django, Docker, Ansible, Bootstrap, Tailwind CSS, and many more. I am also proficient in web development, data scraping, automation, and publishing Python packages on PyPI. Have good working experience in microservice architecture
 
 
+
+
 ## 🛠️ Technologies & Tools
 
 <p align="left">
