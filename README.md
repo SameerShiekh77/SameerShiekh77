@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=SameerShiekh77&label=Profile%20views&color=0e75b6&style=flat" alt="sameershiekh77" />
 </p>
 
-I graduated from FUUAST, where I am a full-stack developer and DevOps manager with expertise in a wide range of technologies. My knowledge spans across HTML, CSS, JavaScript, TypeScript, Python, Django, Docker, Ansible, Bootstrap, Tailwind CSS, and many more. I am also proficient in web development, data scraping, automation, and publishing Python packages on PyPI. Have good working experience in microservice architecture
+I graduated from FUUAST, where I am a full-stack developer and DevOps manager with expertise in various technologies. My knowledge spans HTML, CSS, JavaScript, TypeScript, Python, Django, Docker, Ansible, Bootstrap, Tailwind CSS, and many more. I am also proficient in web development, data scraping, automation, and publishing Python packages on PyPI. Have good working experience in microservice architecture
 
 
 
@@ -79,7 +79,7 @@ I graduated from FUUAST, where I am a full-stack developer and DevOps manager wi
 
 ## Projects
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex;     flex-direction: column;">
 
  <div style="flex: 1; padding-right: 20px;">
 <ul>
@@ -97,22 +97,42 @@ I graduated from FUUAST, where I am a full-stack developer and DevOps manager wi
 
   
   <div style="flex: 1;">
-<ul>
+<table>
+ 
+  <tbody>
+    <tr>
+      <td><strong>Annaafie Epay Payment Gateway</strong></td>
+    </tr>
+    <tr>
+      <td><strong>MCQ Generator Tool</strong></td>
+    </tr>
+    <tr>
+      <td><strong>PDF Summarizer Tool</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Video Analyzer Tool</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Customize HRM on Django</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Open Source ERP Next</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Customize CRM on Django</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Strapi for CMS</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Email Marketing System Tool</strong></td>
+    </tr>
+    <tr>
+      <td><strong>and many more things I've created...</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-- **Annaafie Epay Payment Gateway.**
-
-- **MCQ Generator Tool.**
-
-- **PDF Summarizer Tool.**
-
-- **Video Analyzer Tool.**
-- **Customize HRM on Django.**
-- **Open Source ERP Next.**
-- **Customize CRM on Django.**
-- **Strapi for CMS.**
-- **Email Marketing System Tool.**
-- **and many more things I've created....**
-  </ul>
   </div>
 
 </div>
