@@ -44,25 +44,31 @@ I graduated from FUUAST, where I am a full-stack developer and DevOps manager wi
 
 ## 🌟 Experience
 
-- **🚀 DevOps Manager** at _Al Nafi_ (Aug-2022 -Present)  
+- **💻 Full Stack Developer** at _Ranked Designs_ (Oct-2023 -Present)  
   Leading and managing DevOps practices to streamline operations and drive innovation.
 
-- **👨‍🏫 Junior Faculty** at _APTECH NORTH KARACHI_ (6 Months)  
+- **💻 Full Stack Developer** at _Nexia Tech_ (Oct-2023 -Present)  
+  Leading and managing DevOps practices to streamline operations and drive innovation.
+
+- **🚀 Engineering Manager Core Applications** at _Al Nafi_ (Aug-2022 -Present)  
+  Leading and managing DevOps practices to streamline operations and drive innovation.
+
+- **👨‍🏫 Junior Faculty** at _Aptech (North Karachi Branch)_ (6 Months)  
   Empowering students with foundational knowledge and hands-on experience in technology.
 
-- **💻 Full Stack Django Developer** at _CODERZ HOUSE_ (6 Months)  
+- **💻 Full Stack Django Developer** at _Coderz House_ (6 Months)  
   Crafting robust web applications using Django, contributing to both frontend and backend development.
 
-- **📊 Data Analyst** at _ML SENSE_ (2 Months)  
-  Analyzing data trends to deliver actionable insights, enhancing decision-making processes.
+- **📊 Data Analyst** at _ML Sense_ (2 Months)  
+  Analyzing data trends to deliver actionable insights enhancing decision-making processes.
 
-- **🎓 Co-Founder** of _TECHSHOOR_ (2021 - Present)  
-  Building a platform to share knowledge, fostering a community of tech enthusiasts.
+- **🎓 Co-Founder** of _Techshoor_ (2021 - Present)  
+  Building a platform to share knowledge and fostering a community of tech enthusiasts.
 
-- **🏆 Founder** of _SAM TECH_ (2020 - 2021)  
+- **🏆 Founder** of _Sam Tech_ (2020 - 2021)  
   Leading innovative projects, driving the vision and growth of the company.
 
-- **📚 Senior Teacher** at _KARACHI CAMBRIDGE SCHOOL_ (2017 - 2022)  
+- **📚 Senior Teacher** at _Karachi Cambridge School_ (2017 - 2022)  
   Educating and mentoring students, shaping the next generation of thinkers and leaders.
 
 ## 🌐 Mostly Used Languages
@@ -142,7 +148,7 @@ I graduated from FUUAST, where I am a full-stack developer and DevOps manager wi
 ## 📝 Articles
 
 - 📝 I write articles on [https://techshoor.com/](https://techshoor.com/) 💬 Ask me about **Python, Django, AI**
-- 📝 I write articles on [https://medium.com/](https://medium.com/@muhammadsameer.css) 💬 Ask me about **Python, Django, AI**
+- 📝 I write articles on [https://medium.com/](https://medium.com/@muhammadsameercss) 💬 Ask me about **Python, Django, AI**
 
 ## 📧 Connect with Me
 
